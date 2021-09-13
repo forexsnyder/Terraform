@@ -1,5 +1,7 @@
 provider "aws" {
     region = "eu-west-3"
+    
+
 }
 
 variable vpc_cidr_blocks {}
